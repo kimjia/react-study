@@ -1220,6 +1220,10 @@ onClick={this.scrollBox.scrollToBottom} 으로 작성하면 컴포넌트가 처�
   ```console
   $ yarn add react-router-dom
   ```
+  
+  ## v6로 업데이트 되면서 많이 바뀜...
+  [잘 정리되어 있는 곳](https://blog.woolta.com/categories/1/posts/211)
+  <hr>
 
   src/index.js
 
